@@ -5,3 +5,7 @@
 ### Introspect existing database schema.
 
 `$ deno --env -A --node-modules-dir npm:drizzle-kit pull`
+
+### Create a migration
+
+`$ deno -A npm:drizzle-kit generate`
