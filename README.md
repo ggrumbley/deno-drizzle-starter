@@ -9,3 +9,7 @@
 ### Create a migration
 
 `$ deno -A npm:drizzle-kit generate`
+
+### Provision and run a new Postgres Image with Docker
+
+`$ docker compose up -d`

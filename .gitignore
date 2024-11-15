@@ -64,6 +64,9 @@ terraform/**/cloudflare_**.txt
 
 /tmp
 
+# Database
+db-data/
+
 # Lighthouse
 .lighthouseci
 
